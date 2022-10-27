@@ -35,7 +35,7 @@ export default class App extends Component {
               tabBarLabel: 'pay',
               tabBarIcon: () =>
                 <Image
-                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-intel-isef-64.png')}
+                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-card-payment-50.png')}
                   style={styles.home}
                   resizeMode='contain' />
             }} />
@@ -44,7 +44,7 @@ export default class App extends Component {
               tabBarLabel: 'shop',
               tabBarIcon: () =>
                 <Image
-                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-intel-isef-64.png')}
+                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-shopping-bag-24.png')}
                   style={styles.home}
                   resizeMode='contain' />
             }} />
@@ -53,7 +53,7 @@ export default class App extends Component {
               tabBarLabel: 'discover',
               tabBarIcon: () =>
                 <Image
-                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-intel-isef-64.png')}
+                  source={require('/Users/ashishnegi/Desktop/BootcampAssesment/src/utils/assets/icons/icons8-compass-50.png')}
                   style={styles.home}
                   resizeMode='contain' />
             }} />
